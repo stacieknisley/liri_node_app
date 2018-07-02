@@ -1,0 +1,47 @@
+Last login: Mon Jul  2 12:19:43 on ttys006
+Stacies-MacBook-Air:~ stacieknisley$ pwd
+/Users/stacieknisley
+Stacies-MacBook-Air:~ stacieknisley$ cd desktop
+Stacies-MacBook-Air:desktop stacieknisley$ cd 10_homework_ten
+Stacies-MacBook-Air:10_homework_ten stacieknisley$ cd liri_node_app
+Stacies-MacBook-Air:liri_node_app stacieknisley$ node liri.js
+/Users/stacieknisley/Desktop/10_homework_ten/liri_node_app/liri.js:299
+});
+ ^
+
+SyntaxError: missing ) after argument list
+    at new Script (vm.js:51:7)
+    at createScript (vm.js:136:10)
+    at Object.runInThisContext (vm.js:197:10)
+    at Module._compile (internal/modules/cjs/loader.js:618:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:665:10)
+    at Module.load (internal/modules/cjs/loader.js:566:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:506:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:498:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:695:10)
+    at startup (internal/bootstrap/node.js:201:19)
+Stacies-MacBook-Air:liri_node_app stacieknisley$ node liri.js
+/Users/stacieknisley/Desktop/10_homework_ten/liri_node_app/liri.js:299
+});
+ ^
+
+SyntaxError: missing ) after argument list
+    at new Script (vm.js:51:7)
+    at createScript (vm.js:136:10)
+    at Object.runInThisContext (vm.js:197:10)
+    at Module._compile (internal/modules/cjs/loader.js:618:28)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:665:10)
+    at Module.load (internal/modules/cjs/loader.js:566:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:506:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:498:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:695:10)
+    at startup (internal/bootstrap/node.js:201:19)
+Stacies-MacBook-Air:liri_node_app stacieknisley$ 
+
+
+
+
+
+
+
+
